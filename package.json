@@ -1,0 +1,11 @@
+{
+  "name": "link-to-bin",
+  "type": "module",
+  "version": "1.0.0",
+  "author": "Joakim L. Christiansen (https://joakimch.github.io)",
+  "license": "MIT",
+  "bin": "./link-to-bin.js",
+  "repository": "github:JoakimCh/link-to-bin",
+  "funding": "https://joakimch.github.io/funding.html",
+  "description": "A tool to link or unlink an executable to ~/.local/bin"
+}
